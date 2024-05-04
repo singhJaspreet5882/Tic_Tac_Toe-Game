@@ -4,6 +4,6 @@ This repository hosts a TIC TAC TOE game built with HTML, CSS, and JavaScript. T
 
 Contributions to this project are welcomed! Feel free to suggest improvements or add features by opening an issue or submitting a pull request.
 
-To view Website live click here - 
+To view Website live click here - https://singhjaspreet5882.github.io/Tic_Tac_Toe-Game/
 
 Enjoy playing TIC TAC TOE!
